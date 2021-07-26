@@ -8,4 +8,4 @@
 
 | Assiment | Links                                                     |
 | -------- | --------------------------------------------------------- |
-| Lab: 02 - Modules, Containers, and Testing  | [PR (1)](https://github.com/YousefAbuJalboush/math-series) |
+| Lab: 02 - Modules, Containers, and Testing  | [PR (1)](https://github.com/YousefAbuJalboush/math-series/pull/1) |
