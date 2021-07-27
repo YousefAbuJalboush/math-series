@@ -44,7 +44,7 @@ def list_lucas(numbers: list) -> list:
 sum_series with one required parameter and two optional parameters. The required parameter will determine which element in the series to print. The two optional parameters will have default values of 0 and 1 and will determine the first two values for the series to be produced.
 """
 
-def sum_series(n , first , second):
+def sum_series(n , first = 0 , second = 1):
     if type(n) != int:
         return ("Invalid Input")
     elif n < 0:
